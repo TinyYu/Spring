@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/service/impl/AccountServiceImpl.java" line="26" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc847a97-db29-41e1-b361-a6d54bf5ec34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_01jdbc/day01_01jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_01jdbc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_01jdbc/src/main/java/com/ly/jdbc/JdbcDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_02factory/day01_02factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_02factory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_02factory/src/main/java/com/ly/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_02factory/src/main/java/com/ly/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_02factory/src/main/java/com/ly/factory/BeanFactiry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_02factory/src/main/java/com/ly/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_02factory/src/main/java/com/ly/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_02factory/src/main/java/com/ly/ui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_02factory/src/main/resources/bean.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_03spring/day01_03spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_03spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_03spring/src/main/java/com/ly/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_03spring/src/main/java/com/ly/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_03spring/src/main/java/com/ly/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_03spring/src/main/java/com/ly/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_03spring/src/main/java/com/ly/ui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_03spring/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_04bean/day01_04bean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_04bean/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_04bean/src/main/java/com/ly/factory/InstanceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_04bean/src/main/java/com/ly/factory/StaticFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_04bean/src/main/java/com/ly/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_04bean/src/main/java/com/ly/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_04bean/src/main/java/com/ly/ui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_04bean/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_05di/day01_05di.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_05di/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_05di/src/main/java/com/ly/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_05di/src/main/java/com/ly/service/impl/AccountServiceImp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_05di/src/main/java/com/ly/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_05di/src/main/java/com/ly/service/impl/AccountServiceImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_05di/src/main/java/com/ly/ui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01_05di/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_01anno_ioc/day02_01anno_ioc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_01anno_ioc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/dao/impl/AccountDaoImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/ui/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_01anno_ioc/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_02account_xmlioc/day02_02account_xmlioc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_02account_xmlioc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_02account_xmlioc/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_02account_xmlioc/src/test/java/com/ly/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_03accountioc/day02_03accountioc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_03accountioc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_03accountioc/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_03accountioc/src/test/java/com/ly/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/day02_04account_annoioc_withontxml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/com/ly/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/com/ly/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/com/ly/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/com/ly/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/com/ly/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/config/JdbcConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/config/SpringConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/test/java/com/ly/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/test/java/com/ly/test/QueryRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_01IOCDI/how2j_01IOCDI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_01IOCDI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_01IOCDI/src/main/java/com/ly/TestSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_01IOCDI/src/main/java/com/ly/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_01IOCDI/src/main/java/com/ly/pojo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_01IOCDI/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_02/how2j_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_02/src/main/java/com/ly/TestSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_02/src/main/java/com/ly/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_02/src/main/java/com/ly/pojo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_02/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_03/how2j_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_03/src/main/java/com/ly/TestSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_03/src/main/java/com/ly/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_03/src/main/java/com/ly/pojo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_03/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_04AOP/how2j_04AOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_04AOP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_04AOP/src/main/java/com/ly/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_04AOP/src/main/java/com/ly/logs/LoggerAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_04AOP/src/main/java/com/ly/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_04AOP/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_05/how2j_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_05/src/main/java/com/ly/TestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_05/src/main/java/com/ly/logs/LoggerAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_05/src/main/java/com/ly/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/how2j_05/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/day01_01jdbc/target/" />
+    <ignored path="$PROJECT_DIR$/day01_02factory/target/" />
+    <ignored path="$PROJECT_DIR$/day01_03spring/target/" />
+    <ignored path="$PROJECT_DIR$/how2j_01IOCDI/target/" />
+    <ignored path="$PROJECT_DIR$/how2j_02/target/" />
+    <ignored path="$PROJECT_DIR$/how2j_03/target/" />
+    <ignored path="$PROJECT_DIR$/how2j_04AOP/target/" />
+    <ignored path="$PROJECT_DIR$/how2j_05/target/" />
+    <ignored path="$PROJECT_DIR$/day01_04bean/target/" />
+    <ignored path="$PROJECT_DIR$/day01_05di/target/" />
+    <ignored path="$PROJECT_DIR$/day02_01anno_ioc/target/" />
+    <ignored path="$PROJECT_DIR$/day02_02account_xmlioc/target/" />
+    <ignored path="$PROJECT_DIR$/day02_03accountioc/target/" />
+    <ignored path="$PROJECT_DIR$/day02_04account_annoioc_withontxml/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/test/java/com/ly/test/AccountServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="446">
+              <caret line="73" column="28" lean-forward="true" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/how2j_04AOP/src/main/java/com/ly/TestString.java" />
+        <option value="$PROJECT_DIR$/how2j_04AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/how2j_04AOP/src/main/java/com/ly/logs/LoggerAspect.java" />
+        <option value="$PROJECT_DIR$/how2j_04AOP/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/how2j_05/pom.xml" />
+        <option value="$PROJECT_DIR$/how2j_05/src/main/java/com/ly/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/how2j_05/src/main/java/com/ly/logs/LoggerAspect.java" />
+        <option value="$PROJECT_DIR$/how2j_05/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/day01_03spring/src/main/java/com/ly/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/day01_03spring/src/main/java/com/ly/ui/Client.java" />
+        <option value="$PROJECT_DIR$/day01_04bean/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_04bean/src/main/java/com/ly/factory/InstanceFactory.java" />
+        <option value="$PROJECT_DIR$/day01_04bean/src/main/java/com/ly/factory/ServiceFactory.java" />
+        <option value="$PROJECT_DIR$/day01_04bean/src/main/java/com/ly/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/day01_04bean/src/main/java/com/ly/ui/Client.java" />
+        <option value="$PROJECT_DIR$/day01_04bean/src/main/resources/bean.xml" />
+        <option value="$PROJECT_DIR$/day01_05di/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_05di/src/main/java/com/ly/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/day01_05di/src/main/java/com/ly/service/impl/AccountServiceImpl2.java" />
+        <option value="$PROJECT_DIR$/day01_05di/src/main/java/com/ly/service/impl/AccountServiceImp3.java" />
+        <option value="$PROJECT_DIR$/day01_05di/src/main/java/com/ly/ui/Client.java" />
+        <option value="$PROJECT_DIR$/day01_05di/src/main/resources/bean.xml" />
+        <option value="$PROJECT_DIR$/day02_01anno_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_01anno_ioc/src/main/resources/bean.xml" />
+        <option value="$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/service/impl/AccountServiceImpl2.java" />
+        <option value="$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/dao/impl/AccountDaoImpl2.java" />
+        <option value="$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/dao/impl/AccountDaoImpl.java" />
+        <option value="$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/ui/Client.java" />
+        <option value="$PROJECT_DIR$/day02_02account_xmlioc/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/domain/Account.java" />
+        <option value="$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/dao/AccountDao.java" />
+        <option value="$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/dao/impl/AccountDaoImpl.java" />
+        <option value="$PROJECT_DIR$/day02_02account_xmlioc/src/main/resources/bean.xml" />
+        <option value="$PROJECT_DIR$/day02_02account_xmlioc/src/test/java/com/ly/test/AccountServiceTest.java" />
+        <option value="$PROJECT_DIR$/day02_03accountioc/src/test/java/com/ly/test/AccountServiceTest.java" />
+        <option value="$PROJECT_DIR$/day02_03accountioc/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/dao/impl/AccountDaoImpl.java" />
+        <option value="$PROJECT_DIR$/day02_03accountioc/src/main/resources/bean.xml" />
+        <option value="$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/config/SpringConfigurution.java" />
+        <option value="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/config/SpringConfiguruation.java" />
+        <option value="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/resources/bean.xml" />
+        <option value="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/test/java/com/ly/test/QueryRunner.java" />
+        <option value="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/resources/jdbcConfig.properties" />
+        <option value="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/config/SpringConfiguration.java" />
+        <option value="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/config/JdbcConfiguration.java" />
+        <option value="$PROJECT_DIR$/day02_04account_annoioc_withontxml/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/test/java/com/ly/test/AccountServiceTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/lib/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="F:\lib\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="day01_03spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="day02_04account_annoioc_withontxml" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ly.test" />
+      <recent name="com.ly.dao.impl" />
+      <recent name="com.ly.service.impl" />
+      <recent name="com.ly.factory" />
+      <recent name="com.ly.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\exploit\Trchnology\ssm\spring\day02_04account_annoioc_withontxml\src\main\resources" />
+      <recent name="F:\exploit\Trchnology\ssm\spring\day02_04account_annoioc_withontxml\src\main\java" />
+      <recent name="F:\exploit\Trchnology\ssm\spring\day02_03accountioc\src\main\java" />
+      <recent name="F:\exploit\Trchnology\ssm\spring\day02_03accountioc\src\main\resources" />
+      <recent name="F:\exploit\Trchnology\ssm\spring\day02_01anno_ioc\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest.testFindAll">
+    <configuration name="AccountServiceTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02_04account_annoioc_withontxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ly.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ly.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testSave (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02_03accountioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ly.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ly.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02_04account_annoioc_withontxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ly.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ly.test.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryRunnerTest.testQueryRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02_04account_annoioc_withontxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ly.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ly.test.QueryRunnerTest" />
+      <option name="METHOD_NAME" value="testQueryRunner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryRunner.testQueryRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day02_04account_annoioc_withontxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ly.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ly.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ly.test.QueryRunner" />
+      <option name="METHOD_NAME" value="testQueryRunner" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest.testFindAll" />
+        <item itemvalue="JUnit.QueryRunnerTest.testQueryRunner" />
+        <item itemvalue="JUnit.QueryRunner.testQueryRunner" />
+        <item itemvalue="JUnit.AccountServiceTest.testSave" />
+        <item itemvalue="JUnit.AccountServiceTest.testSave (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc847a97-db29-41e1-b361-a6d54bf5ec34" name="Default Changelist" comment="" />
+      <created>1594302056667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594302056667</updated>
+      <workItem from="1594302057809" duration="941000" />
+      <workItem from="1594545738866" duration="5775000" />
+      <workItem from="1594582079463" duration="31970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AccountServiceTest_testFindAll - 2020.07.14 at 10h 07m 31s.xml">
+      <configuration name="AccountServiceTest.testFindAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueryRunner_testQueryRunner - 2020.07.14 at 10h 10m 23s.xml">
+      <configuration name="QueryRunner.testQueryRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueryRunnerTest_testQueryRunner - 2020.07.14 at 10h 11m 41s.xml">
+      <configuration name="QueryRunnerTest.testQueryRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QueryRunnerTest_testQueryRunner - 2020.07.14 at 10h 12m 30s.xml">
+      <configuration name="QueryRunnerTest.testQueryRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest_testFindAll - 2020.07.14 at 10h 19m 07s.xml">
+      <configuration name="AccountServiceTest.testFindAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest_testFindAll - 2020.07.14 at 10h 19m 47s.xml">
+      <configuration name="AccountServiceTest.testFindAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest_testFindAll - 2020.07.14 at 10h 21m 27s.xml">
+      <configuration name="AccountServiceTest.testFindAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest_testFindAll - 2020.07.14 at 10h 24m 25s.xml">
+      <configuration name="AccountServiceTest.testFindAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest_testFindAll - 2020.07.14 at 10h 33m 51s.xml">
+      <configuration name="AccountServiceTest.testFindAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest_testFindAll - 2020.07.14 at 11h 00m 14s.xml">
+      <configuration name="AccountServiceTest.testFindAll" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38686000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32985386" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32985386" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39979124" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32985386" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32977587" />
+      <window_info anchor="right" id="Word Book" order="6" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day01_04bean/src/main/java/com/ly/ui/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_04bean/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="53" column="53" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_04bean/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="19" selection-start-line="10" selection-start-column="4" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_05di/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_05di/src/main/java/com/ly/factory/InstanceFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_05di/src/main/java/com/ly/factory/StaticFactory.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_05di/src/main/java/com/ly/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_05di/src/main/java/com/ly/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_05di/src/main/java/com/ly/service/impl/AccountServiceImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_05di/src/main/java/com/ly/service/impl/AccountServiceImp3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="62" column="34" lean-forward="true" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+          <folding>
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_05di/src/main/java/com/ly/ui/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/dao/AccountDao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/service/impl/AccountServiceImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_01anno_ioc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/dao/impl/AccountDaoImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/dao/impl/AccountDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/ui/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_01anno_ioc/src/main/java/com/ly/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="88" column="35" lean-forward="true" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
+          <folding>
+            <element signature="e#2640#2641#0" expanded="true" />
+            <element signature="e#2676#2677#0" expanded="true" />
+            <element signature="e#2710#2711#0" expanded="true" />
+            <element signature="e#2746#2747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="42" column="42" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="42" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/dao/AccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01_05di/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_02account_xmlioc/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#725#726#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_02account_xmlioc/src/main/java/com/ly/dao/impl/AccountDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/dao/AccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_02account_xmlioc/src/test/java/com/ly/test/AccountServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="778">
+          <caret line="73" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_02account_xmlioc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="42" column="19" selection-start-line="10" selection-start-column="4" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_01anno_ioc/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/dao/impl/AccountDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_03accountioc/src/main/java/com/ly/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_03accountioc/src/test/java/com/ly/test/AccountServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="51" column="78" selection-start-line="51" selection-start-column="78" selection-end-line="51" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_03accountioc/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_03accountioc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="41" column="19" selection-start-line="9" selection-start-column="3" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/com/ly/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/com/ly/dao/AccountDao.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/com/ly/dao/impl/AccountDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.springframework.context.ApplicationContext">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.springframework.context.ApplicationContext</OriginalElement>
+          <nodes>
+            <node x="" y="">org.springframework.beans.factory.HierarchicalBeanFactory</node>
+            <node x="" y="">java.lang.FunctionalInterface</node>
+            <node x="" y="">org.springframework.core.io.ResourceLoader</node>
+            <node x="" y="">org.springframework.beans.factory.BeanFactory</node>
+            <node x="" y="">org.springframework.core.env.EnvironmentCapable</node>
+            <node x="" y="">org.springframework.context.ApplicationEventPublisher</node>
+            <node x="" y="">org.springframework.core.io.support.ResourcePatternResolver</node>
+            <node x="" y="">org.springframework.context.ApplicationContext</node>
+            <node x="" y="">org.springframework.beans.factory.ListableBeanFactory</node>
+            <node x="" y="">org.springframework.context.MessageSource</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="611.5" y="94.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/com/ly/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/com/ly/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://F:/lib/maven_ warehouse/org/springframework/spring-beans/5.0.2.RELEASE/spring-beans-5.0.2.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/InjectionMetadata.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/test/java/com/ly/test/QueryRunnerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="65" lean-forward="true" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/config/SpringConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/resources/jdbcConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="43" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/main/java/config/JdbcConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day02_04account_annoioc_withontxml/src/test/java/com/ly/test/AccountServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="73" column="28" lean-forward="true" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

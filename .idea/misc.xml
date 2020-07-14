@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/day01_01jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_02factory/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_03spring/pom.xml" />
+        <option value="$PROJECT_DIR$/how2j_01IOCDI/pom.xml" />
+        <option value="$PROJECT_DIR$/how2j_02/pom.xml" />
+        <option value="$PROJECT_DIR$/how2j_03/pom.xml" />
+        <option value="$PROJECT_DIR$/how2j_04AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/how2j_05/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_04bean/pom.xml" />
+        <option value="$PROJECT_DIR$/day01_05di/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_01anno_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_02account_xmlioc/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_03accountioc/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_04account_annoioc_withontxml/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

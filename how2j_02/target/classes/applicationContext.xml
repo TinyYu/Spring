@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- 注入对象 -->
+    <bean name="c" class="com.ly.pojo.Category">
+        <property name="name" value="category 1"/>
+    </bean>
+
+    <bean name="p" class="com.ly.pojo.Product">
+        <property name="name" value="product 1"/>
+        <!-- 使用ref来注入另一个对象 -->
+        <property name="category" ref="c"/>
+    </bean>
+</beans>

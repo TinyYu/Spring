@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day02_03accountioc" />
+        <module name="day01_02factory" />
+        <module name="how2j_03" />
+        <module name="how2j_04AOP" />
+        <module name="day01_04bean" />
+        <module name="day02_04account_annoioc_withontxml" />
+        <module name="day02_02account_xmlioc" />
+        <module name="day02_01anno_ioc" />
+        <module name="day01_01jdbc" />
+        <module name="how2j_05" />
+        <module name="day01_03spring" />
+        <module name="how2j_02" />
+        <module name="day01_05di" />
+        <module name="how2j_01IOCDI" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day01_01jdbc" target="1.5" />
+      <module name="day01_02factory" target="1.5" />
+      <module name="day01_03spring" target="1.5" />
+      <module name="day01_04bean" target="1.5" />
+      <module name="day01_05di" target="1.5" />
+      <module name="day02_01anno_ioc" target="1.5" />
+      <module name="day02_02account_xmlioc" target="1.5" />
+      <module name="day02_03accountioc" target="1.5" />
+      <module name="day02_04account_annoioc_withontxml" target="1.5" />
+      <module name="how2j_01IOCDI" target="1.5" />
+      <module name="how2j_02" target="1.5" />
+      <module name="how2j_03" target="1.5" />
+      <module name="how2j_04AOP" target="1.5" />
+      <module name="how2j_05" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
